@@ -1,0 +1,10 @@
+.counceling {
+  height: calc(100vh - 2rem);
+  background-image: linear-gradient(
+      rgba(0, 255, 255, 0.5),
+      rgba(255, 255, 255, 0.3)
+    ),
+    url("../assets/image/6.webp");
+  background-size: cover;
+  background-position: center;
+}

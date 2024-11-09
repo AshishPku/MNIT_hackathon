@@ -1,0 +1,65 @@
+.job_card {
+  width: 300px;
+  background: #fff;
+  border-radius: 12px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+}
+.job_title {
+  font-size: 1.5em;
+  color: #333;
+  font-weight: bold;
+}
+.location,
+.job_type {
+  margin-top: 8px;
+  color: #777;
+}
+.description {
+  margin-top: 15px;
+  font-size: 0.95em;
+  color: #333;
+  line-height: 1.5;
+}
+.section_title {
+  font-weight: bold;
+  margin-top: 10px;
+  font-size: 1em;
+}
+.skills,
+.perks {
+  display: flex;
+  gap: 8px;
+  flex-wrap: wrap;
+}
+.badge {
+  background-color: #e0e0e0;
+  color: #333;
+  padding: 5px 10px;
+  border-radius: 12px;
+  font-size: 0.85em;
+}
+.salary,
+.equity,
+.posted_date {
+  margin-top: 5px;
+  color: #555;
+  font-size: 0.9em;
+}
+.apply_btn {
+  display: block;
+  text-align: center;
+  margin-top: 20px;
+  padding: 10px;
+  background-color: #0073e6;
+  color: #fff;
+  font-weight: bold;
+  border-radius: 5px;
+  text-decoration: none;
+}
+.apply_btn:hover {
+  background-color: #005bb5;
+}

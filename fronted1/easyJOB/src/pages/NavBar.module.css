@@ -1,0 +1,22 @@
+.navContainer {
+  width: 80%;
+  font-size: 1rem;
+  display: flex;
+  justify-content: space-between;
+  list-style: none;
+  text-decoration: none;
+  margin-top: 4rem;
+}
+.container {
+  display: flex;
+}
+.item {
+  font-weight: bold;
+  list-style: none;
+  text-decoration: none;
+  color: white;
+  font-size: 25px;
+  border-radius: 12px;
+  padding: 7px 13px;
+  background-color: green;
+}

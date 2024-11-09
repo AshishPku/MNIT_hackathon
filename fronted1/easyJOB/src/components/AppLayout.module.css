@@ -1,0 +1,71 @@
+.container {
+  justify-content: space-around;
+  width: 100%;
+}
+.horline {
+  border-top: 5px solid red;
+  margin-bottom: 20px;
+}
+.cardbox {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  column-gap: 40px;
+  row-gap: 20px;
+}
+.container1 {
+  margin: 10% 46%;
+}
+.spinner {
+  width: 100px;
+  height: 100px;
+  animation: rotator 1.4s linear infinite;
+}
+.path {
+  stroke: #4285f4;
+  stroke-linecap: round;
+  animation: dash 1.4s ease-in-out infinite, colors 5.6s ease-in-out infinite;
+  stroke-width: 4;
+  fill: none;
+  transform-origin: center;
+}
+@keyframes rotator {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(270deg);
+  }
+}
+@keyframes colors {
+  0% {
+    stroke: #4285f4;
+  }
+  25% {
+    stroke: #de3e35;
+  }
+  50% {
+    stroke: #f7c223;
+  }
+  75% {
+    stroke: #1b9a59;
+  }
+  100% {
+    stroke: #4285f4;
+  }
+}
+@keyframes dash {
+  0% {
+    stroke-dasharray: 187;
+    stroke-dashoffset: 187;
+  }
+  50% {
+    stroke-dasharray: 187;
+    stroke-dashoffset: 46.75;
+    transform: rotate(135deg);
+  }
+  100% {
+    stroke-dasharray: 187;
+    stroke-dashoffset: 187;
+    transform: rotate(450deg);
+  }
+}
