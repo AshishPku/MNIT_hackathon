@@ -95,9 +95,24 @@ Job Category Filter
 
 ![Screenshot 2024-11-8 at 8 52 19 PM](https://github.com/AshishPku/MNIT_hackathon/blob/main/Screenshot%20from%202024-11-09%2010-00-50.png)
 
+
+
 Tools and Technology Used:-
 1.HTML CSS AND JS,React JS,Tailwind,SASS.
-2.Go Lang for Backend Server.
+2.GoLang and MongoDB for Backend Server.
 3.ML model in Python,spacy,flask.
 4.VS Code
-5.Vercel for deployment.
+
+#How to setup
+
+1) Clone the Repository
+2) Download and Install MongoDB community and GoLang
+3) Go inside the Repo directory
+4) Build and run the Golang Binary File using :
+   ``` make run ```
+in the terminal
+5) Run the frontend React Server
+6) Start using it on browser on localhost
+
+
+
