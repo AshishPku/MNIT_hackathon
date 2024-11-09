@@ -1,0 +1,342 @@
+[{
+  "_id": {
+    "$oid": "672dd43a4df4caa82db7c3a1"
+  },
+  "position": "Software Engineer",
+  "title": "Backend Developer",
+  "description": "Build scalable backend services for Google's search engine.",
+  "url": "https://careers.google.com/jobs/backend-developer",
+  "type": "full-time",
+  "posted": "2023-10-01",
+  "location": "US",
+  "skills": [
+    "Go",
+    "C++",
+    "Python"
+  ],
+  "salaryRange": {
+    "from": 120000,
+    "to": 140000,
+    "currency": "USD"
+  },
+  "equity": {
+    "from": 0.01,
+    "to": 0.05
+  },
+  "perks": [
+    "free food",
+    "health insurance"
+  ],
+  "apply": "https://careers.google.com/jobs/backend-developer/apply"
+},
+{
+  "_id": {
+    "$oid": "672dd43a4df4caa82db7c3a2"
+  },
+  "position": "Software Engineer",
+  "title": "Frontend Developer",
+  "description": "Develop responsive and accessible user interfaces for Google applications.",
+  "url": "https://careers.google.com/jobs/frontend-developer",
+  "type": "full-time",
+  "posted": "2023-09-21",
+  "location": "US",
+  "skills": [
+    "JavaScript",
+    "React",
+    "HTML",
+    "CSS"
+  ],
+  "salaryRange": {
+    "from": 115000,
+    "to": 130000,
+    "currency": "USD"
+  },
+  "equity": {
+    "from": 0.01,
+    "to": 0.05
+  },
+  "perks": [
+    "gym membership",
+    "childcare assistance"
+  ],
+  "apply": "https://careers.google.com/jobs/frontend-developer/apply"
+},
+{
+  "_id": {
+    "$oid": "672dd43a4df4caa82db7c3a3"
+  },
+  "position": "Data Scientist",
+  "title": "Machine Learning Engineer",
+  "description": "Develop predictive models and data pipelines for Azure services.",
+  "url": "https://careers.microsoft.com/jobs/machine-learning-engineer",
+  "type": "full-time",
+  "posted": "2023-10-12",
+  "location": "Remote",
+  "skills": [
+    "Python",
+    "TensorFlow",
+    "Azure"
+  ],
+  "salaryRange": {
+    "from": 130000,
+    "to": 150000,
+    "currency": "USD"
+  },
+  "equity": {
+    "from": 0.02,
+    "to": 0.05
+  },
+  "perks": [
+    "stock options",
+    "remote work support"
+  ],
+  "apply": "https://careers.microsoft.com/jobs/machine-learning-engineer/apply"
+},
+{
+  "_id": {
+    "$oid": "672dd43a4df4caa82db7c3a4"
+  },
+  "position": "DevOps Engineer",
+  "title": "Infrastructure Developer",
+  "description": "Ensure reliable and scalable infrastructure for AWS services.",
+  "url": "https://amazon.jobs/en/jobs/infrastructure-developer",
+  "type": "full-time",
+  "posted": "2023-08-19",
+  "location": "Remote",
+  "skills": [
+    "AWS",
+    "Docker",
+    "Kubernetes"
+  ],
+  "salaryRange": {
+    "from": 125000,
+    "to": 145000,
+    "currency": "USD"
+  },
+  "equity": {
+    "from": 0.01,
+    "to": 0.03
+  },
+  "perks": [
+    "remote work flexibility",
+    "relocation assistance"
+  ],
+  "apply": "https://amazon.jobs/en/jobs/infrastructure-developer/apply"
+},
+{
+  "_id": {
+    "$oid": "672dd43a4df4caa82db7c3a5"
+  },
+  "position": "Product Manager",
+  "title": "Senior Product Manager",
+  "description": "Lead product strategy and execution for social media products.",
+  "url": "https://facebook.com/careers/senior-product-manager",
+  "type": "full-time",
+  "posted": "2023-09-05",
+  "location": "US",
+  "skills": [
+    "Agile",
+    "Product Management",
+    "UX"
+  ],
+  "salaryRange": {
+    "from": 150000,
+    "to": 180000,
+    "currency": "USD"
+  },
+  "equity": {
+    "from": 0.03,
+    "to": 0.05
+  },
+  "perks": [
+    "mental health support",
+    "professional development"
+  ],
+  "apply": "https://facebook.com/careers/senior-product-manager/apply"
+},
+{
+  "_id": {
+    "$oid": "672dd43a4df4caa82db7c3a6"
+  },
+  "position": "Data Analyst",
+  "title": "Senior Data Analyst",
+  "description": "Analyze listener data to improve personalized music recommendations.",
+  "url": "https://spotifyjobs.com/jobs/senior-data-analyst",
+  "type": "full-time",
+  "posted": "2023-10-02",
+  "location": "Sweden",
+  "skills": [
+    "SQL",
+    "Python",
+    "Tableau"
+  ],
+  "salaryRange": {
+    "from": 90000,
+    "to": 110000,
+    "currency": "USD"
+  },
+  "equity": {
+    "from": 0.02,
+    "to": 0.04
+  },
+  "perks": [
+    "remote work",
+    "fitness stipend"
+  ],
+  "apply": "https://spotifyjobs.com/jobs/senior-data-analyst/apply"
+},
+{
+  "_id": {
+    "$oid": "672dd43a4df4caa82db7c3a7"
+  },
+  "position": "Content Engineer",
+  "title": "Video Compression Engineer",
+  "description": "Optimize video quality for streaming while minimizing bandwidth.",
+  "url": "https://jobs.netflix.com/jobs/video-compression-engineer",
+  "type": "full-time",
+  "posted": "2023-07-30",
+  "location": "Remote",
+  "skills": [
+    "H.264",
+    "FFmpeg",
+    "AWS"
+  ],
+  "salaryRange": {
+    "from": 130000,
+    "to": 150000,
+    "currency": "USD"
+  },
+  "equity": {
+    "from": 0.02,
+    "to": 0.05
+  },
+  "perks": [
+    "unlimited vacation",
+    "health benefits"
+  ],
+  "apply": "https://jobs.netflix.com/jobs/video-compression-engineer/apply"
+},
+{
+  "_id": {
+    "$oid": "672dd43a4df4caa82db7c3a8"
+  },
+  "position": "Full Stack Developer",
+  "title": "Web Developer",
+  "description": "Build and enhance features on the Twitter platform.",
+  "url": "https://careers.twitter.com/jobs/web-developer",
+  "type": "full-time",
+  "posted": "2023-06-12",
+  "location": "US",
+  "skills": [
+    "React",
+    "Node.js",
+    "GraphQL"
+  ],
+  "salaryRange": {
+    "from": 110000,
+    "to": 130000,
+    "currency": "USD"
+  },
+  "equity": {
+    "from": 0.01,
+    "to": 0.03
+  },
+  "perks": [
+    "wellness benefits",
+    "remote work"
+  ],
+  "apply": "https://careers.twitter.com/jobs/web-developer/apply"
+},
+{
+  "_id": {
+    "$oid": "672dd43a4df4caa82db7c3a9"
+  },
+  "position": "Product Designer",
+  "title": "UI/UX Designer",
+  "description": "Design and enhance user experience for Airbnb web and mobile apps.",
+  "url": "https://careers.airbnb.com/jobs/ui-ux-designer",
+  "type": "full-time",
+  "posted": "2023-08-18",
+  "location": "US",
+  "skills": [
+    "Figma",
+    "Sketch",
+    "UX Research"
+  ],
+  "salaryRange": {
+    "from": 100000,
+    "to": 120000,
+    "currency": "USD"
+  },
+  "equity": {
+    "from": 0.02,
+    "to": 0.04
+  },
+  "perks": [
+    "travel benefits",
+    "wellness programs"
+  ],
+  "apply": "https://careers.airbnb.com/jobs/ui-ux-designer/apply"
+},
+{
+  "_id": {
+    "$oid": "672dd43a4df4caa82db7c3aa"
+  },
+  "position": "Electrical Engineer",
+  "title": "Battery Engineer",
+  "description": "Develop and optimize battery technology for Tesla vehicles.",
+  "url": "https://tesla.com/careers/battery-engineer",
+  "type": "full-time",
+  "posted": "2023-08-20",
+  "location": "US",
+  "skills": [
+    "Electrical Engineering",
+    "Battery Chemistry",
+    "Simulation"
+  ],
+  "salaryRange": {
+    "from": 125000,
+    "to": 145000,
+    "currency": "USD"
+  },
+  "equity": {
+    "from": 0.02,
+    "to": 0.04
+  },
+  "perks": [
+    "product discounts",
+    "relocation assistance"
+  ],
+  "apply": "https://tesla.com/careers/battery-engineer/apply"
+},
+{
+  "_id": {
+    "$oid": "672dd43a4df4caa82db7c3ab"
+  },
+  "position": "Backend Engineer",
+  "title": "Payments Engineer",
+  "description": "Build and maintain backend systems for secure and reliable payments.",
+  "url": "https://stripe.com/careers/payments-engineer",
+  "type": "full-time",
+  "posted": "2023-07-29",
+  "location": "Remote",
+  "skills": [
+    "Ruby",
+    "SQL",
+    "API Development"
+  ],
+  "salaryRange": {
+    "from": 110000,
+    "to": 135000,
+    "currency": "USD"
+  },
+  "equity": {
+    "from": 0.03,
+    "to": 0.06
+  },
+  "perks": [
+    "remote work flexibility",
+    "education assistance"
+  ],
+  "apply": "https://stripe.com/careers/payments-engineer/apply"
+}]
