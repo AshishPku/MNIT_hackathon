@@ -1,4 +1,4 @@
-# MNIT_hackathon
+# EasyJob
 Comprehensive Job and Career Development Platform for Graduates
 Team Name & Members
 Team Name: Z2HTeam
